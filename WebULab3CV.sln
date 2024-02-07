@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebULab3CV.Client", "WebULa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVAPI", "CVAPI\CVAPI.csproj", "{ECA02DEF-8B82-4EF8-830D-7C4265331BE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoCRUD", "MongoCRUD\MongoCRUD.csproj", "{5B4E3780-9CC1-4ECC-99B5-F3DD28457757}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ECA02DEF-8B82-4EF8-830D-7C4265331BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECA02DEF-8B82-4EF8-830D-7C4265331BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECA02DEF-8B82-4EF8-830D-7C4265331BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4E3780-9CC1-4ECC-99B5-F3DD28457757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4E3780-9CC1-4ECC-99B5-F3DD28457757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4E3780-9CC1-4ECC-99B5-F3DD28457757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4E3780-9CC1-4ECC-99B5-F3DD28457757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
